@@ -51,7 +51,7 @@ CCVII (100 + 100 + 5 + 1 + 1). 1066 är MLXVI (1000 + 50 + 10 + 5 + 1)
 
 Talen skrivs från vänster, och man börjar med tecknet med störst värde. Men, för att undvika att fyra likadana tecken hamnar i rad finns det ett par undantag:
 
-* I kan placeras för V och X för att skapa talet 4 (IV) och 9 (IX) (tänk -1 + 5 och -1 + 10).
+* I kan placeras före V och X för att skapa talet 4 (IV) och 9 (IX) (tänk -1 + 5 och -1 + 10).
 * X kan placeras före L och C för att skapa 40 (XL) och 90 (XC) (tänk -10 + 50 och -10 + 100)
 * C kan placeras före D och M för att skapa 400 (CD) och 900 (CM) (tänk -100 + 500 och -100 + 1000)
 
